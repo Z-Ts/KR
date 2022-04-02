@@ -1,0 +1,15 @@
+/Users/zamiracoriti/Documents/GB/KR-1/kod/bin/Debug/net6.0/kod
+/Users/zamiracoriti/Documents/GB/KR-1/kod/bin/Debug/net6.0/kod.deps.json
+/Users/zamiracoriti/Documents/GB/KR-1/kod/bin/Debug/net6.0/kod.runtimeconfig.json
+/Users/zamiracoriti/Documents/GB/KR-1/kod/bin/Debug/net6.0/kod.dll
+/Users/zamiracoriti/Documents/GB/KR-1/kod/bin/Debug/net6.0/kod.pdb
+/Users/zamiracoriti/Documents/GB/KR-1/kod/obj/Debug/net6.0/kod.csproj.AssemblyReference.cache
+/Users/zamiracoriti/Documents/GB/KR-1/kod/obj/Debug/net6.0/kod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zamiracoriti/Documents/GB/KR-1/kod/obj/Debug/net6.0/kod.AssemblyInfoInputs.cache
+/Users/zamiracoriti/Documents/GB/KR-1/kod/obj/Debug/net6.0/kod.AssemblyInfo.cs
+/Users/zamiracoriti/Documents/GB/KR-1/kod/obj/Debug/net6.0/kod.csproj.CoreCompileInputs.cache
+/Users/zamiracoriti/Documents/GB/KR-1/kod/obj/Debug/net6.0/kod.dll
+/Users/zamiracoriti/Documents/GB/KR-1/kod/obj/Debug/net6.0/refint/kod.dll
+/Users/zamiracoriti/Documents/GB/KR-1/kod/obj/Debug/net6.0/kod.pdb
+/Users/zamiracoriti/Documents/GB/KR-1/kod/obj/Debug/net6.0/kod.genruntimeconfig.cache
+/Users/zamiracoriti/Documents/GB/KR-1/kod/obj/Debug/net6.0/ref/kod.dll
